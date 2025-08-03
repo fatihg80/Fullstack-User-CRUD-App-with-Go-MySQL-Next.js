@@ -177,9 +177,6 @@ npm start
 ## 🧹 Troubleshooting
 
 - ❌ **CORS issues?**: Make sure your Go server includes proper `Access-Control-Allow-*` headers
-- ❌ **Age = 0 bug?**: Ensure `age` is being sent as a number (not string) in frontend forms
-- ❌ **DELETE not working in Firefox?**: Ensure preflight OPTIONS requests are allowed in backend
-
 ---
 
 ## 🤝 Contributing
