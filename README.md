@@ -44,8 +44,7 @@ It is built with:
 ![Edit User](screenshots/7-Update-User.png)
 
 
-
-
+---
 
 
 ## 🚀 Features
