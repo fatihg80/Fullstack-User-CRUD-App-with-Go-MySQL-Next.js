@@ -23,25 +23,32 @@ It is built with:
 ## 📸 Screenshots
 
 ### 📝 Sign Up
-![Sign Up](screenshots/1-SignUp.png)
+
+<img src="screenshots/1-SignUp.png" width="400"/>
 
 ### 🔐 Login
-![Login](screenshots/2-Login.png)
+
+<img src="screenshots/2-Login.png" width="400"/>
 
 ### 📋 Dashboard
-![Dashboard](screenshots/3-Dashboard.png)
+
+<img src="screenshots/3-Dashboard.png" width="500"/>
 
 ### 👥 View All Users
-![View All](screenshots/4-View-All.png)
+
+<img src="screenshots/4-View-All.png" width="700"/>
 
 ### 👤 User Details
-![User Details](screenshots/5-View-User.png)
+
+<img src="screenshots/5-View-User.png" width="500"/>
 
 ### ➕ Add User
-![Add User](screenshots/6-Add-User.png)
+
+<img src="screenshots/6-Add-User.png" width="400"/>
 
 ### ✏️ Edit User
-![Edit User](screenshots/7-Update-User.png)
+
+<img src="screenshots/7-Update-User.png" width="400"/>
 
 
 ---
