@@ -78,7 +78,7 @@ It is built with:
 ### 1. 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/fatihg80/Fullstack-User-Management-CRUD-App-with-Go-MySql-Next.js.git
 cd your-repo-name
 ```
 
