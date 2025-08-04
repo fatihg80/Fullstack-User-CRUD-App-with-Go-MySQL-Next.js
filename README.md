@@ -20,6 +20,34 @@ It is built with:
 
 ---
 
+## 📸 Screenshots
+
+### 📝 Sign Up
+![Sign Up](screenshots/1-SignUp.png)
+
+### 🔐 Login
+![Login](screenshots/2-Login.png)
+
+### 📋 Dashboard
+![Dashboard](screenshots/3-Dashboard.png)
+
+### 👥 View All Users
+![View All](screenshots/4-View-All.png)
+
+### 👤 User Details
+![User Details](screenshots/5-View-User.png)
+
+### ➕ Add User
+![Add User](screenshots/6-Add-User.png)
+
+### ✏️ Edit User
+![Edit User](screenshots/7-Update-User.png)
+
+
+
+
+
+
 ## 🚀 Features
 
 - Create, update, delete, and view users
